@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "title1": "Kurslar",
+    "title2": "Jamoa",
+    "title3": "Yangiliklar",
+    "title4": "Blog"
+  },
+  "header": {
+    "title1": "IELTS 7.0 va undan yuqori ballni birinchi imtihonning o'zidayoq qo'lga kiriting",
+    "title2": "7 yil davomida 40,000 dan ziyod inson Cambridge o’quv markazida tahsil olgan",
+    "button": "Birinchi darsga yozilish"
+  },
+  "sctone": {
+    "titler": "O'zingiz uchun mos kursni tanlang",
+    "btn": "Kursga yozilish"
+  },
+  "carousel": {
+    "title1": "General English",
+    "title2": "IELTS Full Course",
+    "title3": "IELTS Rocket",
+    "title4": "IELTS Focus",
+    "description1": "Ingliz tilini noldan yoki ma’lum darajadan o’rganmoqchi bo'lganlar uchun",
+    "description2": "Kurs davomiyligi: 5 ta bosqich, 1 ta bosqich - 3 oy",
+    "description3": "Minimal bosqich: Noldan yoki undan yuqori",
+    "description4": "IELTS imtihonini 4 oydan so’ng topshirib yuqori ball olishni xohlovchilar uchun",
+    "description5": "Kurs davomiyligi: 4 oy",
+    "description6": "Minimal bosqich: Intermediate va undan yuqori",
+    "description7": "2 oydan so'ng IELTS'dan kamida 6.0 va undan yuqori ball olishni xohlovchilar uchun",
+    "description8": "Kurs davomiyligi: 2 oy",
+    "description9": "Minimal bosqich: Intermediate va undan yuqori",
+    "description10": "IELTS'ni 7.0 va undan yuqori ballga qayta topshirishni xohlovchilar uchun",
+    "description11": "Kurs davomiyligi: 2 oy",
+    "description12": "Minimal bosqich: IELTS 5.5 va undan yuqori"
+  }
+}
